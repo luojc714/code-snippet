@@ -1,2 +1,2 @@
 # code-snippet
-code snippet for remind
+some code snippet for reminder.
